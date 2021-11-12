@@ -48,8 +48,8 @@ Javascript Electron.js)
 
 
 ### FREAM
-##### Site de streaming avec possibilité de poster ses propres vidéos
-langages utilisés : HTML/CSS/Javascript pour la partie front-end et
+#### Site de streaming avec possibilité de poster ses propres vidéos
+Langages utilisés : HTML/CSS/Javascript pour la partie front-end et
 Node.js/MongoDb pour la partie back-end
 ---
 
