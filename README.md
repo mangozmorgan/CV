@@ -26,7 +26,7 @@ réalisé avec les langages HTML/CSS ,Javascript pour le front-end et PHP
 , MySql pour le back-end et la relation avec la base de données.
 Une version pour windows 10 est disponible (utilisation du framework
 Javascript Electron.js)
-[Link to Google](https://www.google.com)
+[Link to Google] https://www.google.com
 Le projet(https://mangozmorgan.github.io/timeOut_Git/) 
 
 ```
