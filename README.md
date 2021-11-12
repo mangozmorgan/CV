@@ -20,8 +20,8 @@ session 06/03/2021 -> 02/12/
 
 ## MES PROJETS
 
-###TIME'S OUT
-####Application Web - compteur de temps Freelance
+### TIME'S OUT
+#### Application Web - compteur de temps Freelance
 Réalisé avec les langages HTML/CSS ,Javascript pour le front-end et PHP
 , MySql pour le back-end et la relation avec la base de données.
 Une version pour windows 10 est disponible (utilisation du framework
