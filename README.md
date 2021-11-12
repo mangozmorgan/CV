@@ -21,7 +21,7 @@ session 06/03/2021 -> 02/12/
 ---
 ## MES PROJETS
 ---
-#### TIME'S OUT
+### TIME'S OUT
 
 ##### Application Web - compteur de temps Freelance
 Réalisé avec les langages HTML/CSS ,Javascript pour le front-end et PHP
@@ -29,33 +29,36 @@ Réalisé avec les langages HTML/CSS ,Javascript pour le front-end et PHP
 Une version pour windows 10 est disponible (utilisation du framework
 Javascript Electron.js)
 
-[Le projet](https://mangozmorgan.github.io/timeOut_Git/)
+[Le front](https://mangozmorgan.github.io/timeOut_Git/)
 ---
 
-#### FREAM
+### FREAM
 ##### Site de streaming avec possibilité de poster ses propres vidéos
 langages utilisés : HTML/CSS/Javascript pour la partie front-end et
 Node.js/MongoDb pour la partie back-end
 ---
-```
-OWNLIBERTY
-Site web de chiffrage de fichiers 100% gratuit et anonyme
+
+### OWNLIBERTY
+#### Site web de chiffrage de fichiers 100% gratuit et anonyme
 Projet réalisé avec HTML/CSS/Javascript pour le front-end et Node.js
 pour le back-end
-https://ownliberty.fr/
-```
-```
-DEV EN DEV
-a vocation d'aider les développeurs débutants, articles , sections et forum
+[Le site](https://ownliberty.fr/)
+
+---
+
+### DEV EN DEV
+#### A vocation d'aider les développeurs débutants, articles , sections et forum
 Projet réalisé avec HTML/CSS/Javascript pour le front-end et Node.js ,
 MongoDb pour le back-end
-https://mangozmorgan.github.io/DEDgit/
-```
-```
-RICK THE BOT
-Création d'un bot discord pour la veille informatique
+[Le front](https://mangozmorgan.github.io/DEDgit/)
+
+---
+
+### RICK THE BOT
+#### Création d'un bot discord pour la veille informatique
 Réalisé avec Node.js
-https://github.com/mangozmorgan/RickTheBot
+[Le projet](https://github.com/mangozmorgan/RickTheBot)
+
 ```
 ### SKILLS
 
