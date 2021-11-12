@@ -18,10 +18,9 @@ Diplôme développeur web/mobile
 session 06/03/2021 -> 02/12/
 ++ Un an d'auto-formation
 ```
-
 ---
 MES PROJETS
----------
+
 
 ### TIME'S OUT
 
