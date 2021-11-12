@@ -5,24 +5,25 @@
 ### FULLSTACK
 
 ### README.TXT
-
+```
 Volontaire , curieux et surtout passionné je suis à la recherche
 d'une entreprise qui me permettra de pouvoir appliquer tout ce
 que j'ai appris de part mes réalisations et ma formation sur des
 projets plus importants et ainsi continuer à progresser dans ce
 domaine passionnant qu'est le développement web.
-
+```
 ### FORMATION
-
+```
 Diplôme développeur web/mobile
 session 06/03/2021 -> 02/12/
 ++ Un an d'auto-formation
-
+```
+---
 ## MES PROJETS
+---
+#### TIME'S OUT
 
-### TIME'S OUT
-
-#### Application Web - compteur de temps Freelance
+##### Application Web - compteur de temps Freelance
 Réalisé avec les langages HTML/CSS ,Javascript pour le front-end et PHP
 , MySql pour le back-end et la relation avec la base de données.
 Une version pour windows 10 est disponible (utilisation du framework
@@ -30,12 +31,12 @@ Javascript Electron.js)
 
 [Le projet](https://mangozmorgan.github.io/timeOut_Git/)
 ---
-```
-FREAM
-Site de streaming avec possibilité de poster ses propres vidéos
+
+#### FREAM
+##### Site de streaming avec possibilité de poster ses propres vidéos
 langages utilisés : HTML/CSS/Javascript pour la partie front-end et
 Node.js/MongoDb pour la partie back-end
-```
+---
 ```
 OWNLIBERTY
 Site web de chiffrage de fichiers 100% gratuit et anonyme
