@@ -71,7 +71,7 @@ MongoDb pour le back-end
 ### RICK THE BOT
 #### Création d'un bot discord pour la veille informatique
 Réalisé avec Node.js
-[Le projet](https://github.com/mangozmorgan/RickTheBot)
+###### [Le projet](https://github.com/mangozmorgan/RickTheBot)
 ---
 
 
